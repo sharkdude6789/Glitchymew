@@ -1,7 +1,7 @@
--  Hi, I’m @Notanewerror
+-  Hi, I’m @GlitchyMew
 -  I’m interested in coding games
--  I’m currently learning js
--  I’m looking to collaborate on any games or animations
+-  I’m currently learning gdscript
+-  I’m looking to collaborate on, well, nothing (I'm the person to break the team usually)
 -  How to reach me: through my email: sharkdude6789@gmail.com
 
 <!---
