@@ -1,6 +1,6 @@
 - Bello
 - I have no fu**in' clue what im doing
-- but i love to pretend like i will make a change that matters some day
+- but i love to pretend like i will make a commit/pull that matters some day
 
 lang tierlist out of boredom
 
@@ -12,8 +12,3 @@ not programming stuff:
 3d animator (i cant draw lol)
 
 girl :3
-
-<!---
-Notanewerror/Notanewerror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
