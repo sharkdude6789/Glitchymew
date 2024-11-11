@@ -1,8 +1,14 @@
--  Hi, I’m @GlitchyMew
--  I’m interested in coding in general.
--  I’m currently learning C, as I want to develop my own language, or perhaps be the next C extension. (also it is the mother of most languages like Python, so learning it will pretty much be a cheat sheet for every language)
--  I’m looking to collaborate on, well, nothing (I'm the person to break the team usually)
--  How to reach me: through my email: sharkdude6789@gmail.com
+- Bello
+- I have no fu**in' clue what im doing
+- but i love to pretend like i will make a change that matters some day
+lang tierlist out of boredom
+- langs~rust, python, gdscript, kotlin
+- langs i despise~java, c++
+- langs that are meh~c
+
+not programming stuff:
+3d animator (i cant draw lol)
+girl :3
 
 <!---
 Notanewerror/Notanewerror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
