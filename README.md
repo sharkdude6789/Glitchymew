@@ -12,3 +12,5 @@ not programming stuff:
 3d animator (i cant draw lol)
 
 girl :3
+
+likes internet history and so won't delete bull crap she posted when she didn't understand how to behave on the world wide web
